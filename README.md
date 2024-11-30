@@ -36,7 +36,7 @@ Manage Search History: User can view past city or he can remove city from search
 ```
 ## Mock up
 
-    ![PR details](images/01-mock-up.png)
+  ![Dashboard UI](images/weather_dashboard_demo.png)
 
 ## Contributing
 Contributions and PR's are welcome.
