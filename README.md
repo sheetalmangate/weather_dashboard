@@ -34,9 +34,6 @@ Manage Search History: User can view past city or he can remove city from search
 ```
     npm run start
 ```
-## Mock up
-
-    ![PR details](images/01-mock-up.png)
 
 ## Contributing
 Contributions and PR's are welcome.
