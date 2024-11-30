@@ -34,6 +34,9 @@ Manage Search History: User can view past city or he can remove city from search
 ```
     npm run start
 ```
+## Mock up
+
+  ![Dashboard UI](images/weather_dashboard_demo.png)
 
 ## Contributing
 Contributions and PR's are welcome.
