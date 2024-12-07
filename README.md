@@ -30,7 +30,7 @@ Manage Search History: User can view past city or he can remove city from search
       npm install
   ```
 
-- To run the README-Generator use the command below in the command prompt
+- To run the Weahter Dashboard use the command below in the command prompt
 ```
     npm run start
 ```
